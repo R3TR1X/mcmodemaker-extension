@@ -19,4 +19,4 @@ A specialized VS Code extension for creating and scaffolding perfect Minecraft M
 
 Enjoy making your Minecraft Mods natively in VS Code/VSCodium!
 
-updating ssoon
+updating
