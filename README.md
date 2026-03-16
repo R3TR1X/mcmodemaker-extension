@@ -18,3 +18,5 @@ A specialized VS Code extension for creating and scaffolding perfect Minecraft M
 3. Right click the tools to scaffold your environment!
 
 Enjoy making your Minecraft Mods natively in VS Code/VSCodium!
+
+updating ssoon
